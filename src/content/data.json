@@ -1,0 +1,311 @@
+{
+    "product_1": {
+			"id": "CT - 123",
+			"text": "100% Cotton Navy/White ColourOxford Chambery",
+			"availabe_colours" : {
+
+			},
+			"colours_quantity": 8,
+			"image": 0,
+			"designs": [
+				{
+					"name": "Design 1",
+					"available_quantity": 50,
+					"image": 0
+				},
+				{
+					"name": "Design 2",
+					"available_quantity": 20,
+					"image": 1
+				},
+				{
+					"name": "Design 3",
+					"available_quantity": 80,
+					"image": 2
+				},
+				{
+					"name": "Design 4",
+					"available_quantity": 100,
+					"image": 3
+				},
+				{
+					"name": "Design 5",
+					"available_quantity": 50,
+					"image": 4
+				},
+				{
+					"name": "Design 6",
+					"available_quantity": 42,
+					"image": 4
+				},
+				{
+					"name": "Design 7",
+					"available_quantity": 55,
+					"image": 4
+				},
+				{
+					"name": "Design 8",
+					"available_quantity": 95,
+					"image": 4
+				}
+			]
+    },
+		"product_2": {
+			"id": "CT - 123",
+			"text": "100% Cotton Navy/White ColourOxford Chambery",
+			"availabe_colours" : {
+
+			},
+			"image": 1,
+			"colours_quantity": 8,
+			"designs": [
+				{
+					"name": "Design 11",
+					"available_quantity": 50,
+					"image": 0
+				},
+				{
+					"name": "Design 12",
+					"available_quantity": 20,
+					"image": 1
+				},
+				{
+					"name": "Design 13",
+					"available_quantity": 80,
+					"image": 2
+				},
+				{
+					"name": "Design 14",
+					"available_quantity": 100,
+					"image": 3
+				},
+				{
+					"name": "Design 15",
+					"available_quantity": 50,
+					"image": 4
+				},
+				{
+					"name": "Design 16",
+					"available_quantity": 42,
+					"image": 5
+				},
+				{
+					"name": "Design 17",
+					"available_quantity": 55,
+					"image": 6
+				},
+				{
+					"name": "Design 18",
+					"available_quantity": 95,
+					"image": 7
+				}
+			]
+    },
+		"product_3": {
+			"id": "CT - 123",
+			"text": "100% Cotton Navy/White ColourOxford Chambery",
+			"image": 2,
+			"availabe_colours" : {
+
+			},
+			"colours_quantity": 8,
+			"designs": [
+				{
+					"name": "Design 21",
+					"available_quantity": 50,
+					"image": 0
+				},
+				{
+					"name": "Design 22",
+					"available_quantity": 20,
+					"image": 1
+				},
+				{
+					"name": "Design 23",
+					"available_quantity": 80,
+					"image": 2
+				},
+				{
+					"name": "Design 24",
+					"available_quantity": 100,
+					"image": 3
+				},
+				{
+					"name": "Design 25",
+					"available_quantity": 50,
+					"image": 4
+				},
+				{
+					"name": "Design 26",
+					"available_quantity": 42,
+					"image": 5
+				},
+				{
+					"name": "Design 27",
+					"available_quantity": 55,
+					"image": 6
+				},
+				{
+					"name": "Design 28",
+					"available_quantity": 95,
+					"image": 7
+				}
+			]
+    },
+		"product_4": {
+			"id": "CT - 123",
+			"text": "100% Cotton Navy/White ColourOxford Chambery",
+			"image": 3,
+			"availabe_colours" : {
+
+			},
+			"colours_quantity": 8,
+			"designs": [
+				{
+					"name": "Design 31",
+					"available_quantity": 50,
+					"image": 0
+				},
+				{
+					"name": "Design 32",
+					"available_quantity": 20,
+					"image": 1
+				},
+				{
+					"name": "Design 33",
+					"available_quantity": 80,
+					"image": 2
+				},
+				{
+					"name": "Design 34",
+					"available_quantity": 100,
+					"image": 3
+				},
+				{
+					"name": "Design 35",
+					"available_quantity": 50,
+					"image": 4
+				},
+				{
+					"name": "Design 36",
+					"available_quantity": 42,
+					"image": 5
+				},
+				{
+					"name": "Design 37",
+					"available_quantity": 55,
+					"image": 6
+				},
+				{
+					"name": "Design 38",
+					"available_quantity": 95,
+					"image": 7
+				}
+			]
+    },
+		"product_5": {
+			"id": "CT - 123",
+			"text": "100% Cotton Navy/White ColourOxford Chambery",
+			"image": 4,
+			"availabe_colours" : {
+
+			},
+			"colours_quantity": 8,
+			"designs": [
+				{
+					"name": "Design 41",
+					"available_quantity": 50,
+					"image": 0
+				},
+				{
+					"name": "Design 42",
+					"available_quantity": 20,
+					"image": 1
+				},
+				{
+					"name": "Design 43",
+					"available_quantity": 80,
+					"image": 2
+				},
+				{
+					"name": "Design 44",
+					"available_quantity": 100,
+					"image": 3
+				},
+				{
+					"name": "Design 45",
+					"available_quantity": 50,
+					"image": 4
+				},
+				{
+					"name": "Design 46",
+					"available_quantity": 42,
+					"image": 5
+				},
+				{
+					"name": "Design 47",
+					"available_quantity": 55,
+					"image": 6
+				},
+				{
+					"name": "Design 48",
+					"available_quantity": 95,
+					"image": 7
+				}
+			]
+    },
+		"product_6": {
+			"id": "CT - 123",
+			"text": "100% Cotton Navy/White ColourOxford Chambery",
+			"image": 5,
+			"availabe_colours" : {
+
+			},
+			"colours_quantity": 8,
+			"designs": [
+				{
+					"name": "Design 51",
+					"available_quantity": 50,
+					"image": 0
+				},
+				{
+					"name": "Design 52",
+					"available_quantity": 20,
+					"image": 1
+				},
+				{
+					"name": "Design 53",
+					"available_quantity": 80,
+					"image": 2
+				},
+				{
+					"name": "Design 54",
+					"available_quantity": 100,
+					"image": 3
+				},
+				{
+					"name": "Design 55",
+					"available_quantity": 50,
+					"image": 4
+				},
+				{
+					"name": "Design 56",
+					"available_quantity": 42,
+					"image": 5
+				},
+				{
+					"name": "Design 57",
+					"available_quantity": 55,
+					"image": 6
+				},
+				{
+					"name": "Design 58",
+					"available_quantity": 95,
+					"image": 7
+				}
+			]
+    }
+
+
+     
+}
